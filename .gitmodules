@@ -1,0 +1,3 @@
+[submodule "themes/hugo_strata_theme"]
+	path = themes/hugo_strata_theme
+	url = https://github.com/digitalcraftsman/hugo-strata-theme.git
