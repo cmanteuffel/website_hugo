@@ -1,22 +1,35 @@
 baseurl = "http://christian.manteuffel.info/"
-title = "My New Hugo Site"
-languageCode = "en-us"
-theme = "hugo_strata_theme"
+theme = "cocoa-hugo-theme"
+builddrafts = false
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Christian Manteuffel"
+title = "Christian Manteuffel"
+pygmentsuseclasses = true
+#disqusshortname = "cocoaexamplesite" # Comment out to disable Disqus.
+pluralizelisttitles = false
 
-[params.portfolio]
 
-        [[params.portfolio.gallery]]
-            image = "fulls/01.jpg"
-            thumb = "thumbs/01.jpg"
-            title = "Lorem ipsum dolor."
-            description = "Lorem ipsum dolor sit amet."
-        [[params.portfolio.gallery]]
-        	image = "fulls/01.jpg"
-            thumb = "thumbs/01.jpg"
-            title = "An update."
-            description = "update"
-
-[[menu.main]]
-	name = "Home"
-	url  = "/"
-	weight = 0
+[permalinks]
+fixed = ":title/"
+blog = "blog/:slug/"
+[params]
+author = "Christian Manteuffel"
+# gravatar = "" # do not use in the same time as Avatar
+# avatar = "" # path to image in static dir e.g img/avatar.png (do not use in the same time as Gravatar)
+cachebuster = true
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Don't panic"
+email = "you@example.space"
+faviconfile = "img/leaf.ico"
+gatracker = "XYZ"
+github = "//github.com/cmanteuffel"
+highlightjs = true
+initials = "ad" # Displayed on single post page; DEPRECATED in v0.3.0.
+lang = "en"
+linkedin = "//linkedin.com/in/you"
+twitter = "//twitter.com/you"
