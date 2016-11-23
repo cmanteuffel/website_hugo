@@ -1,4 +1,7 @@
 language: go
+before_install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y lftp
 install: go get -v github.com/spf13/hugo
 script:
 - hugo
