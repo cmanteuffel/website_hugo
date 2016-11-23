@@ -16,20 +16,22 @@ pluralizelisttitles = false
 [permalinks]
 fixed = ":title/"
 blog = "blog/:slug/"
+
 [params]
 author = "Christian Manteuffel"
-# gravatar = "" # do not use in the same time as Avatar
-# avatar = "" # path to image in static dir e.g img/avatar.png (do not use in the same time as Gravatar)
+description = "Don't panic"
+
+faviconfile = "img/leaf.ico"
+gatracker = "UA-9869203-8"
 cachebuster = true
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description = "Don't panic"
-#email = "you@example.space"
-faviconfile = "img/leaf.ico"
-gatracker = "UA-9869203-8"
-github = "//github.com/cmanteuffel"
 highlightjs = true
-initials = "ad" # Displayed on single post page; DEPRECATED in v0.3.0.
 lang = "en"
+
+#email = "you@example.space"
 linkedin = "//linkedin.com/in/cmanteuffel"
-#twitter = "//twitter.com/you"
+github = "//github.com/cmanteuffel"
+
+#gravatar = "" # do not use in the same time as Avatar
+#avatar = "img/avatar.png"
