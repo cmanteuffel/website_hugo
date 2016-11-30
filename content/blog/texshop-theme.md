@@ -4,7 +4,7 @@ draft = false
 date = "2016-11-30T16:31:24+01:00"
 +++
 
-I love writing using Markdown and [iA Writer](https://ia.net/de/writer) because of its appealing UI and its focus on nothing but the content.
+I enjoy writing using Markdown and [iA Writer](https://ia.net/de/writer) because of its appealing UI and the focus on nothing but the content.
 Yet, when it comes to writing scientific articles the missing support for citations and cross-referencing draws me back to LaTeX. 
 
 My editor-of-choice is [TexShop](http://pages.uoregon.edu/koch/texshop/) which works well for me, except, the default color scheme makes it exhausting to work for long hours due to the bright colors, hard contrasts and small font. That's why I tried to immitate the visuals of iA Writer in TexShop.
