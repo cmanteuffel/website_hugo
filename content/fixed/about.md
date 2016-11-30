@@ -69,9 +69,9 @@ I am member in the following associations: IEEE Computer Society, ACM, DAV (Germ
 
 ### More Profiles 
 
-* [LinkedIn](http://)
-* [Xing](http://)
-* [ResearchGate](http://)
+* [LinkedIn](https://www.linkedin.com/in/cmanteuffel)
+* [Xing](https://www.xing.com/profile/Christian_Manteuffel)
+* [ResearchGate](https://www.researchgate.net/profile/Christian_Manteuffel)
 * [Google Scholar](https://scholar.google.de/citations?user=km9569wAAAAJ)
 * [DBLP](http://dblp.uni-trier.de/pers/hd/m/Manteuffel:Christian)
 * [Research Group](http://www.cs.rug.nl/search/People/ChristianManteuffel)
