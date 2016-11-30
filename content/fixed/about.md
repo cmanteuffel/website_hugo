@@ -24,7 +24,7 @@ I am member in the following associations: IEEE Computer Society, ACM, DAV (Germ
 
 ### Vitae (excerpt)
 
-* Since 2013, I started my PhD at the University of Groningen under the supervision of Prof. Dr. Paris Avgeriou.
+* Since 2013, I am pursuing my PhD at the University of Groningen under the supervision of Prof. Dr. Paris Avgeriou.
 
 * 2013, I received my Master of Science from the University of Groningen, The Netherlands defending a thesis titled *Tool-support for Architecture Decision Documentation*.
 
