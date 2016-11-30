@@ -60,12 +60,12 @@ I am member in the following associations: IEEE Computer Society, ACM, DAV (Germ
 
  * Sun Certified Programmer for the Java Platform 6 (SCJP)
 
-### Teaching
+[//]: # (### Teaching)
 
- * Student assistent bachelor-level: Programming 1,2,3, programming for OER
- * Student assistent master-level: Software ARchitecture, Software Patterns
- * Supervisored student projects
-  * Student Colloquium 
+ [//]: # (* Student assistent bachelor-level: Programming 1,2,3, programming for OER)
+ [//]: # (* Student assistent master-level: Software ARchitecture, Software Patterns)
+ [//]: # (* Supervisored student projects)
+  [//]: # (* Student Colloquium )
 
 ### More Profiles 
 
