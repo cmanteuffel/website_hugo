@@ -69,12 +69,14 @@ I am member of the following associations: IEEE Computer Society, ACM, DAV (Germ
 
 ### More Profiles 
 
-* [LinkedIn](https://www.linkedin.com/in/cmanteuffel)
-* [Xing](https://www.xing.com/profile/Christian_Manteuffel)
-* [ResearchGate](https://www.researchgate.net/profile/Christian_Manteuffel)
-* [Google Scholar](https://scholar.google.de/citations?user=km9569wAAAAJ)
-* [DBLP](http://dblp.uni-trier.de/pers/hd/m/Manteuffel:Christian)
-* [Research Group](http://www.cs.rug.nl/search/People/ChristianManteuffel)
-* [University](http://www.rug.nl/staff/c.manteuffel/)
-* [GitHub](https://github.com/cmanteuffel)
+
+<i class="fa fa-linkedin" aria-hidden="true"></i> [LinkedIn](https://www.linkedin.com/in/cmanteuffel)<br>
+<i class="fa fa-xing" aria-hidden="true"></i> [Xing](https://www.xing.com/profile/Christian_Manteuffel)<br>
+<i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/cmanteuffel)<br>
+<i class="fa fa-google" aria-hidden="true"></i> [Google Scholar](https://scholar.google.de/citations?user=km9569wAAAAJ)<br>
+<i class="fa fa-file-text" aria-hidden="true"></i> [ResearchGate](https://www.researchgate.net/profile/Christian_Manteuffel)<br>
+<i class="fa fa-database" aria-hidden="true"></i> [DBLP](http://dblp.uni-trier.de/pers/hd/m/Manteuffel:Christian)<br>
+<i class="fa fa-users" aria-hidden="true"></i> [University](http://www.rug.nl/staff/c.manteuffel/)<br>
+<i class="fa fa-university" aria-hidden="true"></i> [Research Group](http://www.cs.rug.nl/search/People/ChristianManteuffel)<br>
+
 
