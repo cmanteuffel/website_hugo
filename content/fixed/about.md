@@ -34,7 +34,7 @@ I am member of the following associations: IEEE Computer Society, ACM, DAV (Germ
 
 * 2010, I spend an exchange semester at the University of Bremen.
 
-* Since 2006, I am a system administrator at a real eastate management firm.
+* Since 2006, I am a system administrator at a property management firm.
 
 ### Publications
 
